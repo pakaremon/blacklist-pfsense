@@ -2,5 +2,9 @@ https://www.facebook.com
 https://www.youtube.com
 youtube.com
 facebook.com
+.youtube.com
+.facebook.com
+youtube
+facebook
 www.youtube.com
 www.facebook.com
